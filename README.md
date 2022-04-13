@@ -1,3 +1,5 @@
+# SigPrimedNet: a signaling-informed neural network for scRNA-seq annotation of known and unknown cell types
+
 
 - Experiments and exporting the prior biological knowledge information steps are shared in 'project_bash.sh' file.
 
